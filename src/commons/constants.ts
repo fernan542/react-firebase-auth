@@ -1,0 +1,1 @@
+export const APP_STATE_CACHE_KEY = '__app_state_cache_key__'
